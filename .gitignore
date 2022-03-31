@@ -1,11 +1,3 @@
-*.moved-aside
-*.pbxuser
-*.mode1v3
-*.mode2v3
-*.perspectivev3
-*.xcscmblueprint
-*.xccheckout
-*.hmap
-*.ipa
-*.dSYM.zip
-*.dSYM
+Thumbs.db
+*.DS_Store
+*.idea/
